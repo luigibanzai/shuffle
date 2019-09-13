@@ -1,6 +1,6 @@
 # shuffle
 
-This tool is to shuffles the lines in an input file.
+This tool is useful to shuffle the lines in an input file.
 
 ## How to use
 
